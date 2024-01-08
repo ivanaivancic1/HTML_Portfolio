@@ -1,2 +1,2 @@
 # HTML_Portfolio
-HTML &amp; Portfolio
+HTML Portfolio by Ivana
